@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![jerethom's Stats](https://github-readme-stats.vercel.app/api?username=jerethom&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<!-- ![jerethom's Stats](https://github-readme-stats.vercel.app/api?username=jerethom&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
 ![jerethom's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jerethom&theme=vue-dark&hide_border=true)
 
