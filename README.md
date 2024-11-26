@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![jerethom's Stats](https://github-readme-stats.vercel.app/api?username=jerethom&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![jerethom's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jerethom&theme=vue-dark&hide_border=true)
+
+![jerethom's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jerethom&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Tech stack
 
